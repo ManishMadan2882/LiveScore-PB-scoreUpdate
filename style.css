@@ -65,7 +65,7 @@ color: rgb(49, 174, 49);
     border: none;
 }
 input[type=number]::-webkit-inner-spin-button , input[type=number]::-webkit-outer-spin-button{
-    opacity: 1;
+    opacity: 1 !important;
     height: 32px;
   }
 
